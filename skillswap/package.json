@@ -1,0 +1,1 @@
+{"name":"skillswap-tablesdb","version":"1.0.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","setup":"node scripts/setup.mjs"},"dependencies":{"appwrite":"^20.0.0","lucide-react":"^0.468.0","next":"^15.5.0","node-appwrite":"29.2.0","react":"^19.1.0","react-dom":"^19.1.0"}}
